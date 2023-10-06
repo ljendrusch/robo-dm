@@ -12,10 +12,7 @@ Impressive structured novel-writing AI; very close to the image I have for this 
 [AIDungeon](https://aidungeon.com) ([code](https://github.com/Latitude-Archives/AIDungeon)):
 Interactive story generation, almost like a generated MUD; was open-source up to 2020
 
-### Potential LLM Backbones
-
-[GPT-NeoX](https://github.com/EleutherAI/gpt-neox/):
-Open-source, non-filtered competitor to GPT-3; perhaps too powerful
+### LLM Resources & Pre-Built Models
 
 [HuggingFace Transformers](https://huggingface.co/docs/transformers/index):
 Wrapper for easy training and use of a large number of NN's over a wide array of use cases

@@ -42,4 +42,3 @@ Investigating fine-tuning vs prompt engineering for multi-dimensional input
 Further develop the scene generation to include things you'd find in an adventure manual like monster stats, loot tables, etc.
 
 Could integrate image generation on top of generated scenes and/or characters
-

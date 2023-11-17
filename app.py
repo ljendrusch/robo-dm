@@ -14,7 +14,7 @@ def app():
     with gr.Blocks() as gr_app:
         # scenes_var = gr.State([])
         gr.Markdown('<h1><center><em>Robo DM</em></center></h1>')
-        gr.Markdown('<p><em>Robo DM</em> is here to help!</p><p>Freedom of play isn\'t mandatory, but FUN is</p>')
+        gr.Markdown('<p><em>Robo DM</em> is here to help!</p><p>Freedom of play isn\'t mandatory, but <b>FUN IS</b></p>')
 
         with gr.Row(variant='panel'):
             gr.Textbox('Genre (Required First)', scale=1, lines=1,

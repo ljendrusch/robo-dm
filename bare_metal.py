@@ -1,5 +1,5 @@
 import gradio as gr
-from models.llama_7b import Llama7b
+from models.llama import Llama7b
 
 D_BLURB = '''[INST] <<SYS>>
 (assistant description, tendencies, taboos)

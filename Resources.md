@@ -17,3 +17,7 @@ Interactive story generation, almost like a generated MUD; was open-source up to
 [HuggingFace Transformers](https://huggingface.co/docs/transformers/index):
 Wrapper for easy training and use of a large number of NN's over a wide array of use cases
 
+
+### Quantization and Fine-Tuning
+
+[Experiments with Lora](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2)

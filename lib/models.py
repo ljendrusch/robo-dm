@@ -80,8 +80,8 @@ class Llama13b:
 
 class Novellama13b:
     def __init__(self):
-        self.model_name = 'logij/Novellama-13b-chat-hf'
-        # self.model_name = '/home/lj/.cache/huggingface/hub/models--LJ--Llama-2-13b-fantasy-finetune'
+        # self.model_name = 'logij/Novellama-13b-chat-hf'
+        self.model_name = '/home/lj/.cache/huggingface/hub/models--LJ--Llama-2-13b-fantasy-finetune'
         hf_read_secret = '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'
         login(hf_read_secret, add_to_git_credential=False)
 

@@ -6,7 +6,7 @@ from lib.models import Llama7b, Llama13b, Novellama13b
 TEXTBOX_LINES = 32
 
 
-def app(model=GenQueries(Llama13b())):
+def app(model=GenQueries(Novellama13b())):
     # gr_state = gr.State({'characters': [], 'species': [], 'locales': [], 'plots': [], 'acts': [], 'scenes': []})
 
     with gr.Blocks() as gr_app:

@@ -8,10 +8,14 @@ from lib.prompt_templates import Interaction, \
 
 
 def gen_json_parse(gen: str, num_fields: int) -> str:
+    # print(gen)
     if gen.count('"') % 2 == 1:
         print('uneven quotation marks')
     blob = '{\n    ' + gen
     blob = blob[:blob.rfind('"')+1] + '\n}'
+    # print()
+    # print(gen)
+    # print()
     if gen.count('{') != gen.count('}'):
         print(f'uneven curly braces; {{: {gen.count("{")}, }}: {gen.count("}")}' )
 
@@ -88,7 +92,7 @@ class GenQueries:
         acts = [s.strip() for s in self.acts_re.split(blob) if s and s.strip()]
         scenes = []
         for i,act in enumerate(acts):
-            scenes.append(f'Act {i+1} {self.model.generate(scenes_prompt(genre, act))}\n')
+            scenes.append(f'Act {i+1} {self.model.generate(scenes_prompt(genre, act))}\n') ## TODO: put i into the prompt and prefill response with 'Act {n} Observational Notes:\n\n
             resp = '    ----------------------------------------------------------------\n\n'.join(scenes)
             if i == len(acts)-1:
                 Interaction(self.model.__class__.__name__, tt()-st, blob, resp).to_json()

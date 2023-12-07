@@ -1,0 +1,671 @@
+------------------------------------------------------------------------
+-----Characters prompt:
+Gian Amato is down on his luck
+Lucy "the Lasher" Kim must feed her bloodlust
+number: 3
+
+-----Characters response:
+Kato the Butcher, Bounty Hunter
+- Kato is a cold-blooded killer who will stop at nothing to get the bounty. He will not hesitate to use a knife or a gun to do the job. Despite his ruthless nature, he has a strong sense of justice and is often willing to take on dangerous missions that others would not touch. Kato has a reputation for being one of the best bounty hunters in the galaxy and is feared by many of the criminals he pursues. He is tall and lean, with piercing blue eyes and a shaved head. He often wears a black leather jacket and a pair of dark sunglasses to conceal his eyes. Kato is an expert marksman and has a long history of taking down dangerous criminals.
+- Kato grew up on a tough, crime-ridden planet. As a child, he was constantly exposed to violence and had to fight for everything he ever got. He learned how to use weapons early on and was able to survive on his own from a young age. When he was a teenager, he started taking on odd jobs as a bounty hunter, tracking down criminals for a fee. He quickly gained a reputation as one of the best bounty hunters around and was soon able to make a living at it. Kato has been in many dangerous situations over the years and has had to fight for his life on many occasions. He is one of the few bounty hunters in the galaxy who has ever been able to take down the legendary criminal mastermind, Leroy the Loop.
+
+Lucy the Lasher, Prostitute
+- Lucy is a tough, no-nonsense woman who is not afraid to take on the toughest jobs. She has a strong sense of loyalty to those she cares about, but is not afraid to take down anyone who gets in her way. Despite her tough exterior, she is a romantic at heart and is always hoping that she will find her true love someday. Lucy is known for her beauty and is often sought out by wealthy men who want her to spend the night with them. However, she is not above using her charms to get what she wants. She is tall and slender, with long blonde hair and piercing blue eyes. She is often seen wearing a tight-fitting red dress that accentuates her curves.
+- Lucy grew up on the streets, living from hand to mouth. She learned how to survive by any means necessary and quickly became skilled at using her charm to get what she wanted. As a young girl, she was often forced to prostitute herself to survive. She was able to earn a good living at it, but she never enjoyed it. Despite her tough exterior, Lucy is a romantic at heart and often dreamed of finding her true love. When she turned 18, she left the streets behind and tried to find a respectable job. However, she was unable to find anything that paid well enough to support herself. She turned back to prostitution, but vowed to only take jobs that she wanted to do. She has had many dangerous jobs over the years, but has always been able to come out on top.
+
+Gian Amato, Smuggler
+- Gian is a tough, no-nonsense man who will stop at nothing to get what he wants. He is not afraid to take on dangerous missions and is always willing to take risks. Despite his tough exterior, he has a soft spot for children and animals and is always willing to help those in need. Gian is known for his quick wit and is often able to talk his way out of dangerous situations. He is tall and lean, with short, dark hair and piercing brown eyes. He is often seen wearing a black leather jacket and a pair of dark sunglasses.
+- Gian grew up on a poor planet, where he learned how to survive by any means necessary. He started smuggling at a young age and was able to earn a good living at it. However, he often had to take on dangerous jobs to make ends meet. He has been arrested many times for smuggling and has spent time in jail. Despite his criminal record, he has never been able to stay away from smuggling for long. He loves the thrill of the chase and the feeling of getting away with something. Gian has had many dangerous missions over the years, but has always been able to come out on top. He is one of the few smugglers in the galaxy who has ever been able to take down the legendary criminal mastermind, Leroy the Loop.
+
+
+------------------------------------------------------------------------
+-----Species prompt:
+A new take on werewolves
+Supernatural beings that live on the dark side of the moon
+number: 3
+
+
+-----Species response:
+Celestial Werewolf
+- A handsome, well-built human with a mop of thick, curly hair, and a full-moon-shaped birthmark on his forehead.
+- Werewolves are humans who have been transformed by the power of the moon, granting them extraordinary physical abilities, such as strength, speed, agility, and endurance. They are often marked by a birthmark in the shape of a full moon, and they have a strong connection to the natural world and the lunar cycle. However, when they are in the light of a full moon, their supernatural powers increase, and they become nearly invincible. When the moon is in a crescent phase, they are weakened and lose control of their wolf-like tendencies.
+- Werewolves are often outcasts, feared and hated by society, but within their own ranks, they are a tight-knit group that bands together for mutual protection and support. They often live apart from human society, and prefer the natural world and the dark side of the moon, where they can run free and unencumbered.
+
+Lunar Shadow
+- A tall, slender being with skin as dark as the night, and eyes that glow like two burning coals. It has wings like a bat, but they are as black as coal, and are covered in shimmering scales. It has claws like a bird of prey, but they are as long as swords.
+- Lunar Shadows are beings of darkness that live on the dark side of the moon. They are vampiric creatures that feed on the nightmares of humans, and they can only be seen in the shadows of the night. They are as elusive as shadows, and can disappear at will. They can also transform into other creatures, including humans, and they can walk on the dark side of the moon without being burned by the sun's heat. They live in the dark side of the moon, where they hunt for humans who wander too far from home.
+- Lunar Shadows are solitary creatures that hunt alone, but they are not unfriendly towards each other. They are fiercely territorial, and they will not hesitate to attack anyone who invades their space. They have a deep respect for the other creatures that live on the dark side of the moon, and they avoid conflict whenever possible.
+
+Feral Moon-Child
+- A small, scrappy child with sharp teeth and claws, and a mop of curly hair that resembles a lion's mane.
+- Feral Moon-Children are the product of a human mother who has been impregnated by a werewolf. They are born with a mix of human and wolf DNA, and they have the ability to transform into a wolf at will. They are fast, agile, and incredibly strong, and they are nearly invincible in the light of a full moon. However, they are vulnerable in the light of a crescent moon, and they can become feral and lose control of their human side. They have a strong connection to the lunar cycle, and they are often drawn to the dark side of the moon, where they can run free and unencumbered.
+- Feral Moon-Children are often shunned by human society, and they are forced to live on the fringes. They often band together in small packs, and they are fiercely loyal to their pack members. They are highly intelligent, and they often have a natural affinity for the natural world. They are often drawn to the dark side of the moon, where they can run free and unencumbered.
+
+
+------------------------------------------------------------------------
+-----Locales prompt:
+Murky forest
+The dark side of the moon
+number: 2
+
+
+-----Locales response:
+Beyond the Veil
+- A vast, undulating sea of shadowy, translucent green. It looks like a dreamscape, but is as solid as a mountain. The ground feels like soft earth underfoot, but when you look down, it's clear you're standing on a swirling mass of tendrils.
+- Most of the landmarks here are organic. Some of the trees are tall and thick, others are short and twisted. There are glowing fungi and ferns that sprout in clusters. In the distance, you can see a huge black tree that's as tall as a mountain.
+- Beyond the Veil is a realm of the faeries. This is where they come when they want to hide from mortals. But faeries are not the only ones who come here. The Shadow People of the Night also roam the Veil. They're not so much dangerous as they are frightening. They are very good at staying hidden.
+
+Hell's Pit
+- There is no solid ground. The Pit is an infinite void of shifting black sand. It feels like you're in a shark tank, surrounded by a million needle-sharp teeth. Sometimes, you can hear the screams of the damned. The Pit is the final resting place of the wicked.
+- There are no landmarks in Hell's Pit. It's the end of the world.
+- The Pit is the ultimate punishment for those who choose evil over good. It's said that when a mortal dies in sin, their soul is dragged into the Pit to suffer for eternity. It's not clear whether it's true, but there are those who believe that this place is an eternal reminder of the price of evil.
+
+
+------------------------------------------------------------------------
+-----Plot prompt:
+The world has gone dark, and with the fading of the sun, society falters and horrors emerge
+
+
+-----Plot response:
+Kato the Butcher, one of the galaxy's most feared bounty hunters, has been hired by a wealthy client to track down a dangerous criminal mastermind, Leroy the Loop. Kato is one of the few bounty hunters who has ever been able to take down Leroy, and he is determined to do it again. However, when he arrives on the planet where Leroy is hiding, he discovers that he is not the only one after the criminal mastermind. A group of smugglers, led by Gian Amato, is also after Leroy, and they are willing to kill anyone who gets in their way. As Kato pursues Leroy, he finds himself at odds with the smugglers, and a dangerous game of cat-and-mouse ensues. As Kato and the smugglers fight for control of the planet, Leroy the Loop is forced to use every trick in his book to stay one step ahead of them. He uses his powerful psychic powers to control the minds of the people around him, making them do his bidding. He is also able to shape-shift into a variety of different forms, including that of a powerful celestial werewolf. He is a master of disguise, and he is able to blend in seamlessly with his surroundings. As Kato and the smugglers close in on Leroy, he transforms into a lunar shadow and disappears into the darkness. Kato and the smugglers are left to fight it out among themselves. In the end, Kato is the last man standing, and he is able to take down Leroy the Loop. However, the battle has left him badly injured, and he is forced to seek medical attention on a distant planet. There, he encounters a Feral Moon-Child who has been abandoned by its mother. The child is feral and uncontrollable, and Kato is forced to fight for his life. He is able to defeat the child, but he is gravely injured in the process. As he lies in his hospital bed, he realizes that he has been in many dangerous situations over the years, but he has never been in as much danger as he is now. He knows that he is in a race against time to find a cure for his injuries before it's too late. He is forced to rely on the help of his new allies, including the Feral Moon-Child, who is now his only hope for survival. As Kato struggles to survive, he is forced to confront the horrors of the dark side of the moon. He encounters a Lunar Shadow who is able to transform into a powerful celestial werewolf, and he must fight for his life. He is also forced to confront the Shadow People of the Night, who are lurking in the shadows, waiting for their chance to strike. As Kato fights for his life, he is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity. In the end, he is able to survive, but he is forever changed by the experience. He is forced to confront the reality of his own mortality, and he must make a choice between his life as a bounty hunter and the chance to start a new life with the Feral Moon-Child. As he makes his choice, he is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity. Will he be able to overcome his own fear and find a way out of the Pit, or will he be trapped there forever? Only time will tell.
+
+------------------------------------------------------------------------
+-----Story response: (added newlines between acts, between act titles and plots; there were zero newlines in original response)
+Act 1: Ordinary world
+Kato the Butcher is a legendary bounty hunter who has earned the respect and admiration of his peers. He is known throughout the galaxy as one of the most dangerous men alive. Despite his success, he has always remained a mystery to the people around him. He is a man who keeps to himself and doesn't talk much. But beneath his tough exterior, he is a lonely and haunted man. He has seen too much violence and death in his lifetime, and it has left its mark on him. He is always on the move, never staying in one place for too long. He is haunted by the memories of the people he has killed, and he is constantly looking over his shoulder. He knows that one day, someone will come after him, and he will be forced to face the consequences of his actions.
+
+Act 2: Call to adventure
+Kato is hired by a wealthy client to track down a dangerous criminal mastermind named Leroy the Loop. Leroy is one of the most dangerous men in the galaxy, and Kato is one of the few bounty hunters who has ever been able to take him down. Kato is intrigued by the challenge, and he is eager to prove to himself and the galaxy that he is still the best. He sets off on his mission, determined to bring Leroy to justice.
+
+Act 3: Refusal of the call
+Kato arrives on the planet where Leroy is hiding, but he soon discovers that he is not the only one after him. A group of smugglers, led by Gian Amato, is also after Leroy, and they are willing to kill anyone who gets in their way. Kato is forced to confront the smugglers, and he realizes that he is not up to the task. He is gravely injured, and he is forced to seek medical attention on a distant planet.
+
+Act 4: Meeting with the mentor
+Kato encounters a Feral Moon-Child who has been abandoned by its mother. The child is feral and uncontrollable, and Kato is forced to fight for his life. He is able to defeat the child, but he is gravely injured in the process. As he lies in his hospital bed, he realizes that he has been in many dangerous situations over the years, but he has never been in as much danger as he is now. He knows that he is in a race against time to find a cure for his injuries before it's too late. He is forced to rely on the help of his new allies, including the Feral Moon-Child, who is now his only hope for survival.
+
+Act 5: Crossing the first threshold
+Kato sets off on his journey, determined to find a cure for his injuries. He encounters a Lunar Shadow who is able to transform into a powerful celestial werewolf, and he must fight for his life. He is also forced to confront the Shadow People of the Night, who are lurking in the shadows, waiting for their chance to strike. As he fights for his life, he is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity. He realizes that he is in a race against time to find a cure for his injuries before it's too late.
+
+Act 6: Tests, allies, and enemies
+Kato continues on his journey, determined to survive. He encounters a group of rebels who are fighting against the corrupt government of the Moon, and he is forced to choose sides. He also encounters a group of lunar monsters, who are able to transform into powerful celestial werewolves. He must fight for his life, and he is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity.
+
+Act 7: Approach to the inmost cave
+As Kato approaches the inmost cave, he is forced to confront the ultimate horror of the Pit. He is confronted by a Lunar Shadow who is able to transform into a powerful celestial werewolf, and he must fight for his life. He is also forced to confront the Shadow People of the Night, who are lurking in the shadows, waiting for their chance to strike.
+
+Act 8: The ordeal
+Kato is forced to face the ultimate horror of the Pit, where the wicked are punished for eternity. He is forced to confront the Lunar Shadow, who is able to transform into a powerful celestial werewolf, and he must fight for his life. He is also forced to confront the Shadow People of the Night, who are lurking in the shadows, waiting for their chance to strike.
+
+Act 9: Reward
+Kato is able to defeat the Lunar Shadow, and he is able to find a cure for his injuries. He is forced to confront the Shadow People of the Night, and he is able to defeat them as well. He is able to survive, but he is forever changed by the experience. He is forced to confront the reality of his own mortality, and he must make a choice between his life as a bounty hunter and the chance to start a new life with the Feral Moon-Child.
+
+Act 10: The road back
+As Kato sets off on his journey, he is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity. He realizes that he is in a race against time to find a cure for his injuries before it's too late. He is forced to rely on the help of his new allies, including the Feral Moon-Child, who is now his only hope for survival.
+
+Act 11: The resurrection
+Kato is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity. He is forced to confront the Lunar Shadow, who is able to transform into a powerful celestial werewolf, and he must fight for his life. He is also forced to confront the Shadow People of the Night, who are lurking in the shadows, waiting for their chance to strike. He is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity.
+
+Act 12: Return with the elixir
+Kato is able to defeat the Lunar Shadow, and he is able to find a cure for his injuries. He is forced to confront the Shadow People of the Night, and he is able to defeat them as well. He is able to survive, but he is forever changed by the experience. He is forced to confront the reality of his own mortality, and he must make a choice between his life as a bounty hunter and the chance to start a new life with the Feral Moon-Child. He is forced to confront the ultimate horror of the Pit, where the wicked are punished for eternity. He realizes that he is in a race against time to find a cure for his injuries before it's too late. He is forced to rely on the help of his new allies, including the Feral Moon-Child, who is now his only hope for survival.
+
+
+------------------------------------------------------------------------
+-----Scenes response:
+Act 1 Observational Notes:
+
+Flora:
+
+* Kato the Butcher's home world, a desolate and inhospitable planet, is covered in an eerie gray-green moss that clings to everything. It is a parasitic plant that slowly consumes everything it touches.
+* In the distant reaches of the galaxy, Kato found a rare flower with petals the color of blood. He brought it back to his home world and planted it in his garden. It grows wildly and blooms every year on the anniversary of his parents' deaths.
+
+Fauna:
+
+* Kato's pet is a rare breed of animal known as a "Targus," which is a cross between a tiger and a shark. It is a carnivorous predator that can swim and breathe underwater. It is loyal to Kato and fiercely protective of him.
+* In his travels, Kato has encountered other rare animals, including a species of insect that can fly faster than a spaceship, and a species of fish that can survive in space.
+
+Environs:
+
+* Kato's home world is a bleak and desolate place with no vegetation, no oceans, and no atmosphere. The planet is covered in a thick layer of ice, and the only living creatures are the parasitic plants that consume everything they touch.
+* Kato's ship, the "Butcher's Blade," is a heavily armed spacecraft with a black hull and a red stripe running down its side. It has the capacity to travel to other planets and dimensions.
+
+Populations:
+
+* Kato has never stayed in one place for too long. He is always on the move, constantly traveling from planet to planet in search of new challenges and new opportunities.
+* Kato has killed more than 1000 people in his lifetime, but he has never stayed in one place long enough to form any lasting connections with anyone.
+
+Architecture:
+
+* Kato's home planet is covered in an eerie gray-green moss that consumes everything it touches. The only buildings are the underground fortresses that Kato has built to protect himself from the harsh environment.
+* Kato has seen many different types of buildings in his travels, from the towering skyscrapers of the galactic capital to the primitive huts of distant planets. He has also seen the ruins of ancient civilizations, including the remains of a city on a distant planet that was destroyed by a massive volcanic eruption.
+    ----------------------------------------------------------------
+
+Act 2 Observational Notes, Scene 1:
+
+* Flora: Desert planet, with only a few scrubby plants scattered throughout the landscape.
+* Fauna: Sandworms, large creatures that burrow beneath the surface and occasionally emerge to feed on anything in their path.
+* Environs: Dusty, barren desert, with red sand that stretches as far as the eye can see in all directions.
+* Populations: Few, sparse settlements of humans and other creatures, most of whom live in underground cities.
+* Architecture: Low, flat structures made of sand-colored stone, with domed roofs that allow inhabitants to burrow into the ground.
+
+Observational Notes, Scene 2:
+
+* Flora: Highly developed agricultural systems, with rows of crops growing in large fields and greenhouses filled with a variety of produce.
+* Fauna: Large numbers of domesticated animals, including cattle, pigs, and chickens.
+* Environs: A large, water-rich planet, with forests and fields that stretch as far as the eye can see.
+* Populations: Large cities filled with humans and other intelligent species, with towering structures made of a variety of materials.
+* Architecture: A wide range of styles and materials, from modern skyscrapers to ancient ruins.
+
+Observational Notes, Scene 3:
+
+* Flora: None, as this is a barren, frozen world.
+* Fauna: Only a few hardy creatures, such as polar bears, wolves, and seals.
+* Environs: A frozen wasteland, with ice stretching as far as the eye can see in all directions.
+* Populations: Few, isolated settlements of humans and other creatures, most of whom live in igloos and other underground structures.
+* Architecture: Simple, functional structures made of snow and ice.
+
+Observational Notes, Scene 4:
+
+* Flora: None, as this is a world of pure rock and metal.
+* Fauna: Only a few hardy creatures, such as insects and worms.
+* Environs: A barren, rocky landscape, with no vegetation or water to be seen anywhere.
+* Populations: A few scattered settlements of humans and other creatures, most of whom live in underground cities.
+* Architecture: Simple, functional structures made of rock and metal, with no attempt at aesthetic considerations.
+    ----------------------------------------------------------------
+
+Act 3 Observational notes:
+
+Flora:
+
+* Lush vegetation on distant planet where Kato seeks medical attention
+* Exotic plants with vibrant colors
+
+Fauna:
+
+* Kato's pet, a genetically engineered creature that resembles a cross between a cat and a dog
+* Alien creatures on the distant planet, including one that resembles a giant spider
+
+Environs:
+
+* Dense forests on distant planet
+* Barren wasteland on planet where smugglers are hiding
+
+Populations:
+
+* Kato's companions on the distant planet, including a doctor and several patients
+* Smugglers, including their leader, Gian Amato
+* Leroy, the criminal that Kato is seeking
+
+Architecture:
+
+* Drab, industrial-style buildings on the distant planet
+* Luxurious dwellings on the planet where Kato seeks medical attention
+* Hideout of the smugglers, located in an abandoned mine shaft
+
+Scenes:
+
+* Kato and his companions traveling through the dense forests of the distant planet
+* Kato's encounter with the giant spider-like creature
+* Kato's fight with the smugglers
+* Kato's flight from the smugglers' hideout
+* Kato's encounter with the genetically engineered creature on the distant planet.
+    ----------------------------------------------------------------
+
+Act 4 Observational Notes:
+
+Flora:
+
+* The landscape is mostly barren with small patches of stubble-grass.
+* Cacti have become the dominant plant species.
+* There are few flowering plants and no fruit trees.
+
+Fauna:
+
+* The Feral Moon-Child is a creature of pure muscle with little fat and no discernible features.
+* It moves on all fours and attacks with its claws and teeth.
+* There are no other animals in sight.
+
+Environs:
+
+* The sky is a deep shade of orange, the sun's rays are filtered through a thin haze.
+* The land is arid and dry with little vegetation.
+* The only signs of water are a few small, shallow pools.
+
+Populations:
+
+* There is no sign of human or animal life except for the Feral Moon-Child.
+* The area appears abandoned and has been so for a long time.
+
+Architecture:
+
+* There are no buildings, but the terrain is pockmarked with small craters and divots.
+* The land is scarred and barren with little evidence of any previous civilization.
+
+Flora:
+
+* There are no trees, only scrubby bushes.
+* The air is filled with a fine, powdery dust that coats everything.
+
+Fauna:
+
+* There are no signs of life.
+* The only evidence of life is a small scavenger bird.
+
+Environs:
+
+* The sky is overcast, with a heavy, impenetrable gray.
+* The air is dry and stale, the wind is almost nonexistent.
+* The ground is rocky and dry.
+
+Populations:
+
+* There are no other signs of life.
+* The area appears abandoned.
+
+Architecture:
+
+* There are no buildings, only the ruins of an ancient civilization.
+* The ruins are weathered and crumbling, covered in dust and sand.
+
+Flora:
+
+* The landscape is barren and rocky, with few patches of stubble-grass.
+* The air is dry and stale, the wind is almost nonexistent.
+
+Fauna:
+
+* There are no signs of life.
+* The only evidence of life is a small scavenger bird.
+
+Environs:
+
+* The sky is overcast, with a heavy, impenetrable gray.
+* The air is dry and stale.
+* The ground is rocky and dry.
+
+Populations:
+
+* There are no other signs of life.
+* The area appears abandoned.
+
+Architecture:
+
+* There are no buildings, only the ruins of an ancient civilization.
+* The ruins are weathered and crumbling, covered in dust and sand.
+
+Flora:
+
+* The landscape is barren, with no vegetation in sight.
+* The air is dry and stale, the wind is almost nonexistent.
+
+Fauna:
+
+* There are no signs of life.
+* The only evidence of life is a small scavenger bird.
+
+Environs:
+
+* The sky is overcast, with a heavy, impenetrable gray.
+* The air is dry and stale.
+* The ground is rocky and dry.
+
+Populations:
+
+* There are no other signs of life.
+* The area appears abandoned.
+
+Architecture:
+
+* There are no buildings, only the ruins of an ancient civilization.
+* The ruins are weathered and crumbling, covered in dust and sand.
+    ----------------------------------------------------------------
+
+Act 5 Observational notes:
+
+Flora:
+
+* Sparse vegetation on the moon, consisting mostly of small, hardy plants such as clover and dandelions
+* Low-growing, thorny shrubs with leathery leaves and thick, waxy stems
+* Some areas covered in a fine, powdery dust that resembles snow
+
+Fauna:
+
+* No living creatures observed on the moon's surface
+* Shadows of animals can be seen in the distance, hinting at the presence of some unknown life form
+
+Environs:
+
+* Lunar landscape is barren and desolate, with deep craters and jagged mountains
+* The horizon stretches out in every direction, without any signs of civilization
+* The air is thin and cold, with a faint smell of dust
+
+Populations:
+
+* No signs of any human settlements or communities
+* A few abandoned structures, including crumbling buildings and spacecraft, scattered throughout the landscape
+
+Architecture:
+
+* Roughly constructed structures made of metal and plastic, with a utilitarian appearance
+* No apparent order or pattern to the structures, giving the impression of random construction
+* Many structures show signs of damage or decay, with holes and gashes in the walls and roofs
+
+In general, the lunar landscape is bleak and hostile, with no signs of life or civilization. The abandoned structures are a testament to the harsh conditions on the moon and the difficulty of survival. The few remaining buildings appear to have been constructed quickly and with little concern for aesthetics or functionality. The overall impression is of a desolate, barren world with no hope of recovery.
+    ----------------------------------------------------------------
+
+Act 6 Observational notes:
+
+Flora
+
+* Grasses: sparse, dry, and brittle; appear similar to Earth grasses, but have a distinctive shade of brown with a silvery sheen.
+* Trees: tall and slender, with smooth white bark and long, thin branches; the leaves are small and waxy, with a bluish tint.
+* Flowers: numerous varieties, each with delicate, translucent petals and a vibrant color scheme; some are similar to Earth flowers, while others are alien and bizarre.
+
+Fauna
+
+* Insects: numerous and varied, but most are small and appear harmless; many are colorful and have iridescent wings.
+* Birds: large, with long, curved beaks; many have bright plumage and elaborate songs.
+* Mammals: rare, and generally small and shy; most are rodent-like, but some resemble giant rodents with sharp tusks.
+* Reptiles: large and aggressive, with tough, scaly hides and sharp fangs; many have powerful tails and long claws.
+* Monsters: numerous and varied, ranging from large, vicious creatures to small, agile predators. Many have multiple limbs or exotic body parts.
+
+Environs
+
+* Terrain: rocky, uneven, and barren; much of the land is covered with a thick layer of dust and debris.
+* Climate: hot and dry, with little rainfall; the air is often hazy, and the temperature ranges from extreme heat to bitter cold.
+* Vegetation: sparse, with most plants growing in clusters or isolated areas.
+
+Populations
+
+* Humans: numerous, with diverse cultures and languages; many appear to be survivalists or rebels.
+* Aliens: few, and generally elusive; most seem to be indigenous to the Moon.
+
+Architecture
+
+* Structures: scattered and varied, ranging from ramshackle shelters to elaborate castles.
+* Ruins: many, ranging from small and ancient to large and modern.
+
+Observations:
+
+* Strange creatures have been spotted in the ruins of an ancient city.
+* A large group of humans is hiding in a cave, afraid to venture out due to the monsters.
+* A group of aliens is using a cave as a temporary shelter, and they appear to be searching for something.
+* The humans are fighting against a powerful alien who has taken control of a large cave.
+* A monster has been seen in the distance, heading towards the cave where the humans are hiding.
+* The aliens are using strange weapons to fight against the humans.
+* A large group of humans has been seen fleeing from a cave after a battle with the aliens.
+    ----------------------------------------------------------------
+
+Act 7 Observational Notes:
+
+Flora:
+
+* The cave walls are covered in a thick layer of ice, with glistening frozen water droplets hanging from the ceiling.
+* The cave floor is slick with ice, making it difficult to walk.
+* There is a small pool of water at the bottom of the cave, surrounded by a ring of black rock.
+
+Fauna:
+
+* The cave is dark and quiet, except for the distant howling of a wolf.
+* The wolf is a pale, ghostly creature with red eyes.
+
+Environs:
+
+* The cave is located deep in the mountains, and the only way to reach it is by climbing up a steep, rocky path.
+* The cave is surrounded by high cliffs and sharp rocks.
+
+Populations:
+
+* The cave is inhabited by a pack of wolves.
+* The wolves are all pale and ghostly, with red eyes.
+
+Architecture:
+
+* The cave has a low ceiling and is surrounded by high cliffs.
+* There is a small pool of water at the bottom of the cave, surrounded by a ring of black rock.
+
+The wolves are all pale and ghostly, with red eyes. They are hiding in the shadows, waiting for their chance to strike. The cave is dark and quiet, except for the distant howling of a wolf. The only way to reach the cave is by climbing up a steep, rocky path. The cave is located deep in the mountains, and is surrounded by high cliffs and sharp rocks.
+    ----------------------------------------------------------------
+
+Act 8 Observational Notes:
+
+Flora:
+
+* Bamboo forests cover vast areas, including the walls of the Pit
+* Vines of an unidentified species are strangling many trees
+* Tall, spiky cacti are abundant
+* Desert wildflowers and cactus blossoms are in bloom
+
+Fauna:
+
+* The Lunar Shadow transforms into a werewolf
+* Packs of wolf-like creatures roam the desert
+* Large, vicious cats are abundant
+* Rats and other rodents are plentiful
+
+Environs:
+
+* The Pit is a massive, craterlike depression in the ground
+* The surrounding area is flat and barren
+* The Pit walls are lined with barbed wire and other defenses
+* A massive fortress overlooks the Pit
+
+Populations:
+
+* Kato is the only survivor of his clan
+* The Lunar Shadow and Shadow People live in the fortress
+* The packs of wolf-like creatures are likely Shadow People
+
+Architecture:
+
+* The fortress is massive and imposing, with high walls and towers
+* The interior of the fortress is filled with dungeons and torture chambers
+* The Pit is surrounded by a high wall and guard towers.
+    ----------------------------------------------------------------
+
+Act 9 Observational Notes:
+
+Flora:
+
+* The Lunar Shadow's armor is covered in spines and thorns that resemble the leaves of the Night-Flower.
+* The Shadow People's robes are made of a black, shimmering material that looks like the petals of the Blossom of the Blood.
+* The Feral Moon-Child's fur is the color of the Night-Bloom.
+
+Fauna:
+
+* The Lunar Shadow is a towering, black-armored creature with a spiked tail. It is able to shoot a beam of light from its eyes.
+* The Shadow People are tall, black-robed humanoids with spiked hands and glowing eyes.
+* The Feral Moon-Child is a wolf-like creature with fur the color of the Night-Bloom. It is able to transform into a humanoid.
+
+Environs:
+
+* The Lunar Shadow's lair is a cave on the dark side of the Moon.
+* The Shadow People live in a city on the dark side of the Moon.
+* The Feral Moon-Child lives in a cave on the dark side of the Moon.
+
+Populations:
+
+* The Lunar Shadow is the last of its kind.
+* The Shadow People are a dying race.
+* The Feral Moon-Child is the only one of its kind.
+
+Architecture:
+
+* The Lunar Shadow's lair is filled with strange, glowing artifacts.
+* The Shadow People's city is filled with strange, glowing structures.
+* The Feral Moon-Child's cave is filled with strange, glowing objects.
+
+Observational Notes:
+
+Flora:
+
+* The Night-Flower has white petals and a purple center.
+* The Blossom of the Blood has red petals and a yellow center.
+* The Night-Bloom has black petals and a red center.
+
+Fauna:
+
+* The Lunar Shadow has a spiked tail.
+* The Shadow People have spiked hands.
+* The Feral Moon-Child has a spiked tail.
+
+Environs:
+
+* The Lunar Shadow's lair is on the dark side of the Moon.
+* The Shadow People's city is on the dark side of the Moon.
+* The Feral Moon-Child's cave is on the dark side of the Moon.
+
+Populations:
+
+* The Lunar Shadow is the last of its kind.
+* The Shadow People are a dying race.
+* The Feral Moon-Child is the only one of its kind.
+
+Architecture:
+
+* The Lunar Shadow's lair is filled with strange, glowing artifacts.
+* The Shadow People's city is filled with strange, glowing structures.
+* The Feral Moon-Child's cave is filled with strange, glowing objects.
+
+Observational Notes:
+
+Flora:
+
+* The Night-Flower has white petals and a purple center.
+* The Blossom of the Blood has red petals and a yellow center.
+* The Night-Bloom has black petals and a red center.
+
+Fauna:
+
+* The Lunar Shadow has a spiked tail.
+* The Shadow People have spiked hands.
+* The Feral Moon-Child has a spiked tail.
+
+Environs:
+
+* The Lunar Shadow's lair is on the dark side of the Moon.
+* The Shadow People's city is on the dark side of the Moon.
+* The Feral Moon-Child's cave is on the dark side of the Moon.
+
+Populations:
+
+* The Lunar Shadow is the last of its kind.
+* The Shadow People are a dying race.
+* The Feral Moon-Child is the only one of its kind.
+
+Architecture:
+
+* The Lunar Shadow's lair is filled with strange, glowing artifacts.
+* The Shadow People's city is filled with strange, glowing structures.
+* The Feral Moon-Child's cave is filled with strange, glowing objects.
+
+Observational Notes:
+
+Flora:
+
+* The Night-Flower has white petals and a purple center.
+* The Blossom of the Blood has red petals and a yellow center.
+* The Night-Bloom has black petals and a red center.
+
+Fauna:
+
+* The Lunar Shadow has a spiked tail.
+* The Shadow People have spiked hands.
+* The Feral Moon-Child has a spiked tail.
+
+Environs:
+
+* The Lunar Shadow's lair is on the dark side of the Moon.
+* The Shadow People's city is on the dark side of the Moon.
+* The Feral Moon-Child's cave is on the dark side of the Moon.
+
+Populations:
+
+* The Lunar Shadow is the last of its kind.
+* The Shadow People are a dying race.
+* The Feral Moon-Child is the only one of its kind.
+
+Architecture:
+
+* The Lunar Shadow's lair is filled with strange, glowing artifacts.
+* The Shadow People's city is filled with strange, glowing structures.
+* The Feral Moon-Child's cave is filled with strange, glowing objects.
+
+Observational Notes:
+
+Flora:
+
+* The Night-Flower has white petals and a purple center.
+* The Blossom of the Blood has red petals and a yellow center.
+* The Night-Bloom has black petals and a red center.
+
+Fauna:
+
+* The Lunar Shadow has a spiked tail.
+* The Shadow People have spiked hands.
+* The Feral Moon-Child has a spiked tail.
+
+Environs:
+
+* The Lunar Shadow's lair is on the dark side of the Moon.
+* The Shadow People's city is on the dark side of the Moon.
+* The Feral Moon-Child's cave is on the dark side of the Moon.
+
+Populations:
+
+* The Lunar Shadow is the last of its kind.
+* The Shadow People are a dying race.
+* The Feral Moon-Child is the only one of its kind.
+
+Architecture:
+
+* The Lunar Shadow's lair is filled with strange, glowing artifacts.
+* The Shadow People's city is filled with strange, glowing structures.
+* The Feral Moon-Child's cave is filled with strange, glowing objects.
+    ----------------------------------------------------------------
+
+Act 10 Observational Notes:
+
+Flora:
+
+* Gnarled and twisted trees and shrubs, with long, sharp thorns.
+* Strange vines with thick, fleshy leaves.
+* Thickets of razor-sharp briars.
+* Massive, fleshy fungi growing on rocks and trees.
+* Weirdly shaped flowers, some with sharp petals.
+* Clusters of fungal pods.
+
+Fauna:
+
+* Many creatures with long, sharp claws.
+* Creatures that appear to be made entirely of thorns.
+* Creatures that seem to be made entirely of fungi.
+* Large, aggressive beasts with thick hides and sharp tusks.
+* A giant, serpent-like creature that slithers through the underbrush.
+* A creature that appears to be a giant insect.
+
+Environs:
+
+* A dense forest of twisted trees and thorny shrubs.
+* A tangle of vines and creepers.
+* A rocky hillside covered with thickets of briars.
+* A vast, flat plain dotted with mounds of fungi.
+* A swampy area with strange, fleshy plants.
+
+Populations:
+
+* A tribe of feral humans, living in caves.
+* A group of mutants, all with sharp claws.
+* A colony of giant insects.
+* A group of creatures that appear to be fungi, but move and act like animals.
+* A group of creatures that appear to be made entirely of thorns.
+
+Architecture:
+
+* A network of caves.
+* A strange, twisted castle with thorns and sharp spikes.
+* A fleshy, organic building that seems to have grown up from the ground.
+* A massive, twisted tree with strange, fleshy growths.
+* A colony of fungi, with a variety of different types of fungi.
+
+All of the creatures that we've encountered are hostile, and we've had to fight our way through many of them. We've also seen evidence of many other creatures that we've not yet encountered, including a giant, serpent-like creature, a creature that appears to be a giant insect, and a creature that seems to be made entirely of thorns. We've also seen evidence of a strange, fleshy fungus that appears to be growing on a large scale. It's not clear how these creatures are related, or if they are even related at all.
+
+(last 2??)

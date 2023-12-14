@@ -8,14 +8,10 @@ from lib.prompt_templates import Interaction, \
 
 
 def gen_json_parse(gen: str, num_fields: int) -> str:
-    # print(gen)
     if gen.count('"') % 2 == 1:
         print('uneven quotation marks')
     blob = '{\n    ' + gen
     blob = blob[:blob.rfind('"')+1] + '\n}'
-    # print()
-    # print(gen)
-    # print()
     if gen.count('{') != gen.count('}'):
         print(f'uneven curly braces; {{: {gen.count("{")}, }}: {gen.count("}")}' )
 
@@ -32,6 +28,25 @@ def gen_json_parse(gen: str, num_fields: int) -> str:
                     o = o[:c+1] + ',' + o[c+1:]
                     c += 1
             split[i] = o
+
+    ## TODO: improve sanity checking on llama-generated json objects
+    ##       remove any repeated commas with r',\s*?,'
+    ##       whitespace chars between a field value's " and , are fine
+    ##       ensure only a single comma after all but the last field value
+    ##       and only whitespace between the last field value " and json object closing }
+    # for i,o in enumerate(split):
+    #     field_ends = re.findall(r'"\s*?,', o, re.S)
+    #     if len(field_ends) != num_fields-1:
+    #         print('uneven field commas')
+    #         c = -1
+    #         for _ in range(num_fields-1):
+    #             for _ in range(4):
+    #                 c = o.find('"', c+1)
+    #             if o[c+1] != ',':
+    #                 o = o[:c+1] + ',' + o[c+1:]
+    #                 c += 1
+    #         split[i] = o
+
 
     return [{k.strip().lower():v.strip().encode('ascii','ignore').decode() for k,v in json.loads(o).items()} for o in split]
 

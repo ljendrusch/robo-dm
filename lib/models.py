@@ -3,14 +3,13 @@ import torch
 from typing import Any
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, GenerationConfig
 from lib.gen_funcs import GenQueries
-from lib.globals import MODELS
+from lib.globals import MODELS, HF_SECRET
 
 
 class Llama7b:
     def __init__(self):
         self.model_name = 'meta-llama/Llama-2-7b-chat-hf'
-        hf_read_secret = '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'
-        login(hf_read_secret, add_to_git_credential=False)
+        login(HF_SECRET)
 
         self.llm = AutoModelForCausalLM.from_pretrained(
             self.model_name,
@@ -46,8 +45,7 @@ class Llama7b:
 class Llama13b:
     def __init__(self):
         self.model_name = 'meta-llama/Llama-2-13b-chat-hf'
-        hf_read_secret = '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'
-        login(hf_read_secret, add_to_git_credential=False)
+        login(HF_SECRET)
 
         self.llm = AutoModelForCausalLM.from_pretrained(
             self.model_name,
@@ -82,10 +80,8 @@ class Llama13b:
 
 class Novellama13b:
     def __init__(self):
-        # self.model_name = 'logij/Novellama-13b-chat-hf'
-        self.model_name = '/home/lj/.cache/huggingface/hub/models--LJ--Llama-2-13b-fantasy-finetune'
-        hf_read_secret = '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'
-        login(hf_read_secret, add_to_git_credential=False)
+        self.model_name = 'logij/Novellama-13b-chat-hf'
+        login(HF_SECRET)
 
         self.llm = AutoModelForCausalLM.from_pretrained(
             self.model_name,

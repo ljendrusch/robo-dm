@@ -1,5 +1,5 @@
-import os
-os.environ["TF_CPP_MIN_LOG_LEVEL"] = "4"
+from os import environ as os_env
+os_env['TF_CPP_MIN_LOG_LEVEL'] = '4'
 # from argparse import ArgumentParser
 
 from lib.app import app
@@ -19,4 +19,4 @@ from lib.app import app
 #         modal_app()
 
 if __name__ == '__main__':
-    app()
+    app('Llama7b')

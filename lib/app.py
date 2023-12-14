@@ -1,12 +1,13 @@
 import gradio as gr
-from lib.gen_funcs import GenQueries
-from lib.models import Llama7b, Llama13b, Novellama13b
+from lib.globals import MODELS
+from lib.models import model_switch
 
 # from lib.globals import D_BLURB, D_GENRE
 TEXTBOX_LINES = 32
 
-
-def app(model=GenQueries(Novellama13b())):
+ 
+def app(model_name: MODELS, share: bool=False):
+    model = model_switch(model_name)
     # gr_state = gr.State({'characters': [], 'species': [], 'locales': [], 'plots': [], 'acts': [], 'scenes': []})
 
     with gr.Blocks() as gr_app:
@@ -74,7 +75,7 @@ def app(model=GenQueries(Novellama13b())):
 
 
     gr_app.queue() # needed if any 'click' event functions return generators
-    gr_app.launch(share=False, show_api=False)
+    gr_app.launch(share=share, show_api=False)
 
 
 

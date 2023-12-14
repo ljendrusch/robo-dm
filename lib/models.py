@@ -1,7 +1,9 @@
 from huggingface_hub import login
 import torch
-from typing import Any, Literal
+from typing import Any
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, GenerationConfig
+from lib.gen_funcs import GenQueries
+from lib.globals import MODELS
 
 
 class Llama7b:
@@ -116,13 +118,13 @@ class Novellama13b:
         return resp
 
 
-def model_switch(name: Literal[ 'llama7b', 'llama13b', 'novellama13b']) -> Any:
-    if name == 'llama7b':
-        return Llama7b()
-    elif name == 'llama13b':
-        return Llama13b()
-    elif name == 'novellama13b':
-        return Novellama13b()
+def model_switch(name: MODELS) -> Any:
+    if name == 'Llama7b':
+        return GenQueries(Llama7b())
+    elif name == 'Llama13b':
+        return GenQueries(Llama13b())
+    elif name == 'Novellama13b':
+        return GenQueries(Novellama13b())
     else:
-        print(f'** ERROR: Unknown model {name}; now exiting')
+        print(f'** ERROR: Unknown model [{name}]; now exiting')
         exit()

@@ -47,39 +47,87 @@ approachable are shared in [misc/Resources.md](misc/Resources.md).
 *Robo-DM...*
 
 - is a novel, storyboard, and TTRPG adventure writing assistant
-- forgot their d20
+
+- forgot their d20, do you have a spare?
+
 - runs a version of the open-source LLM Llama2 either locally on one's computer, or remotely on a simple and low-cost cloud computing service
+
 - uses said LLM to expound on minimal-to-no user input to generate well-fleshed-out story content
+
 - generates story content in interactive steps; one can edit the generated content and such edits will be reflected in later steps
 
 
 ## Usage
 
 Robo-DM can be ran locally or remotely. Running locally requires a high-end Nvidia GPU, while running remotely requires an account with the cloud
-computing service Modal, and perhaps a few bucks off your bank card.
+computing service Modal, and perhaps a few bucks off your bank card. Note: The first time you use a certain model, you may have to download it.
+This process is automated, but the download may be 24 GB and thus will take some time and harddrive real estate.
 
-### Running Locally
+
+**Add Huggingface Access Token**:
+
+Go to [huggingface.co](https://huggingface.co) and make an account
+
+Go to your email and confirm your registration
+
+Go to [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens); click new token, name it whatever, set it to 'read'
+
+Copy the token to clipboard (should be a string like 'hf_QkfV................')
+
+Paste the token in [lib/globals.py](lib/globals.py) HF_SECRET, example:
+
+```
+HF_SECRET = 'hf_QkfV.......'
+```
+
+
+**Access Llama Models**:
+
+To use Llama2 7b or 13b you need to get access from the model creator, meta. To do so, complete the following steps.
+
+Fill out the meta form first; the email you use must match your huggingface account email
+
+[ai.meta.com/resources/models-and-libraries/llama-downloads/](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
+
+Next go to this site. There's a card up top with the title 'Access Llama 2 on Hugging Face;' check the box and press submit
+
+[huggingface.co/meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
+
+Note: Can take over a day to go through, but usually takes only a couple hours
+
+
+## Running Locally
 
 If you have a modern Nvidia GPU with 6 GB or more VRAM, you can run Robo-DM locally with the base Llama2 7b model.
+
 If you have a modern Nvidia GPU with 10 GB or more VRAM, you can run Robo-DM locally with Llama2 7b, 13b, or my modified Novellama 13b model.
+
+Note: Generated content is saved in a rudimentary for in [robo-dm/interactions](robo-dm/interactions); it may be pertinent to instead save content you like by copying
+it with Ctrl + A, Ctrl + C, then pasting it into a text document or similar, and saving it there.
+
 The following instructions are for a WSL2 development environment; details may vary for other environments.
+
 
 **Check GPU VRAM**:
 
 - Nvidia Control Panel
+
     ```
     Open Nvidia Control Panel
     Click on 'Help' and 'System Information'
     Scroll down in 'Details' to find 'Dedicated video memory'
     'Dedicated video memory' divided by 1000 is your GPU's VRAM in GB
     ```
+
 - Windows
+
     ```
     Ctrl + R to open Run
     enter 'dxdiag'
     click 'Display' tab
     'Display Memory (VRAM)' divided by 1000 is your GPU's VRAM in GB
     ```
+
 
 **Dependencies**:
 
@@ -91,16 +139,85 @@ The following instructions are for a WSL2 development environment; details may v
 
     ```pip install -r requirements.txt```
 
+
 **Run**:
 
-```python3 main.py Novellama13b```
+```
+python3 main.py Llama7b
+    or
+python3 main.py Llama13b
+    or
+python3 main.py Novellama13b
+```
 
 Open the IP address and port that appears in the terminal, example:
 
 ```Running on local URL:  http://127.0.0.1:7860```
+
 
 **Close**:
 
 Ctrl + C in the terminal
 
 
+## Running Remote via Modal
+
+Anyone and everyone can run Robo-DM using modal. Modal is exceptionally easy to use with Python projects, and is much lower cost than big-name
+competitors. You get a $30 credit per month, and you'd have to do a lot of Robo-DM'ing to overtake that mark. You do have to cough up your card
+number to make an account though, and you need a github account to make a modal account. Also, it may take around 30 minutes to get Robo-DM
+running the first time you run it on modal, and around 15 minutes the first time you use any alternate model. Modal needs to construct and
+compile a container and download the model you wish to use to modal servers. Note: The actual Robo-DM website will automatically close after
+24 hours, and doesn't currently save its content anywhere. If you want to keep a story you've generated, copy the text with Ctrl + A, Ctrl + C,
+paste it into a text document or similar, and save it there.
+
+
+**Make a Modal Account**:
+
+Login or register on (github.com)[https://github.com/]
+
+Create an account on (modal.com)[https://modal.com/]
+
+Go to your email and confirm your registration
+
+
+**Make a Modal Token**:
+
+In a terminal, enter
+
+```
+modal token new
+```
+
+
+**Deploy Robo-DM to Modal**:
+
+This step readies a container on modal. There may be a roughly 15 minute compile timer. In a terminal, enter
+
+```
+modal serve modal_main.py
+```
+
+This step runs the container. There may be a roughly 15 minute model download time. Open the website that appears in the terminal, example:
+
+```
+Created fastapi_app => https://ljendrusch--robodm-fastapi-app-dev.modal.run
+```
+
+This step will finally open Robo-DM in your browser. Open the website that appears in the terminal, example:
+
+```
+Running on public URL: https://99527e444cca905a81.gradio.live
+```
+
+Modal is set to use model 'Novellama13b.' If you want to use a different model, change [lib/globals.py](lib/globals.py) MODAL_MODEL, example:
+
+```
+MODAL_MODEL = 'Llama7b'
+    or
+MODAL_MODEL = 'Llama13b'
+```
+
+
+**Close Modal-deployed Robo-DM**:
+
+Ctrl + C in the terminal

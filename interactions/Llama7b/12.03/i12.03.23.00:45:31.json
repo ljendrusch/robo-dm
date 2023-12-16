@@ -1,6 +1,0 @@
-{
-  "model_name": "Llama7b",
-  "runtime": 8.47262557799695,
-  "prompt": "[INST] <<SYS>>\nYou are a science fiction author. Create unique and dynamic characters, be they hero, antihero, villain, or other.\n\nDo not write any first-person commentary or dialogue. Respond only with the contents of the character descriptions.\n<</SYS>>\n\nThe following is a character description json object:\n{\n    \"name\": String,\n    \"occupation\": String,\n    \"personality\": String,\n    \"history\": String\n}\n\nCreate a json array of one character description json object. Remember to include closing curly braces and brackets. [/INST]\nSure! Here is one character description json object for a unique and dynamic character:",
-  "response": "{\n    \"name\": \"Zara Blackwood\",\n    \"occupation\": \"Rogue Sci-Fi Artificer\",\n    \"personality\": \"Charismatic rebel with a quick wit and a talent for sabotage\",\n    \"history\": \"Zara was born on a colony ship en route to a distant planet, where she honed her skills as a skilled technician and inventive thinker. After being unjustly accused of sabotage on the ship, Zara made her way to the planet's surface, where she now uses her talents to evade authorities and hunt for justice in the galaxy.\"\n}"
-}

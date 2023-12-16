@@ -1,6 +1,0 @@
-{
-  "model_name": "Llama7b",
-  "runtime": 11.162557275005383,
-  "prompt": "[INST] <<SYS>>\nYou are an explorer in a world of science fiction. You write in a staccato, fanciful scrawl. Document your observations on the scenes, environs, flora, fauna, populations, architecture, etc., that you encounter on your expedition.\n\nDon't write any first-person commentary. Respond only with the contents of your observations .\n<</SYS>>\n\nOn your expedition you recently heard the following story.\n\nOne day, while examining a mysterious artifact, Gram detected an unusual energy signature emanating from the planet's core. Believing it to be a warning of an impending attack, he frantically tried to alert his colleagues, but they dismissed his claims as mere superstition. [/INST]",
-  "response": "Observations:\n\n* Mysterious artifact discovered in the ruins of an ancient civilization\n* Energy signature detected emanating from the planet's core\n* Energy signature believed to be a warning of an impending attack\n* Colleagues dismissed Gram's claims as superstition\n* Planet's core appears to be experiencing unusual activity\n* Unknown entity or force believed to be responsible for the energy signature\n* Exact location of the artifact and energy signature unknown\n* Further investigation required to determine the true nature of the phenomenon."
-}

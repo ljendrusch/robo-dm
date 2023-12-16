@@ -1,4 +1,4 @@
 .vscode
-interactions
-resources
+interactions/
+resources/
 __pycache__

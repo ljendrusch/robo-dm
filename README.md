@@ -58,46 +58,48 @@ approachable are shared in [misc/Resources.md](misc/Resources.md).
 Robo-DM can be ran locally or remotely. Running locally requires a high-end Nvidia GPU, while running remotely requires an account with the cloud
 computing service Modal, and perhaps a few bucks off your bank card.
 
-#### Running Locally
+### Running Locally
 
 If you have a modern Nvidia GPU with 6 GB or more VRAM, you can run Robo-DM locally with the base Llama2 7b model.
 If you have a modern Nvidia GPU with 10 GB or more VRAM, you can run Robo-DM locally with Llama2 7b, 13b, or my modified Novellama 13b model.
 The following instructions are for a WSL2 development environment; details may vary for other environments.
 
-**Check GPU VRAM**
+**Check GPU VRAM**:
 
 - Nvidia Control Panel
+    ```
     Open Nvidia Control Panel
     Click on 'Help' and 'System Information'
     Scroll down in 'Details' to find 'Dedicated video memory'
     'Dedicated video memory' divided by 1000 is your GPU's VRAM in GB
+    ```
 - Windows
+    ```
     Ctrl + R to open Run
     enter 'dxdiag'
     click 'Display' tab
     'Display Memory (VRAM)' divided by 1000 is your GPU's VRAM in GB
+    ```
 
-**Dependencies**
+**Dependencies**:
 
 - Nvidia toolkit and CUDA
+
     [Install WSL2 on Windows 11 with NVIDIA CUDA 11.8](https://www.youtube.com/watch?v=1HzYU2_t3yc)
+
 - Install Python dependencies
 
     ```pip install -r requirements.txt```
 
-**Run**
+**Run**:
 
-```python3 main.py```
-
-    or
-
-```python main.py```
+```python3 main.py Novellama13b```
 
 Open the IP address and port that appears in the terminal, example:
 
 ```Running on local URL:  http://127.0.0.1:7860```
 
-**Close**
+**Close**:
 
 Ctrl + C in the terminal
 

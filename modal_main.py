@@ -1,8 +1,11 @@
 from os import environ as os_env
 os_env['TF_CPP_MIN_LOG_LEVEL'] = '4'
 
+from argparse import ArgumentParser
+from lib.app import app
+from lib.globals import MODELS_ITER
+
 from fastapi import FastAPI
-from pathlib import Path
 from modal import (
     Image,
     NetworkFileSystem,
@@ -11,7 +14,6 @@ from modal import (
     asgi_app,
 )
 
-from lib.app import app
 
 stub = Stub(name='robodm')
 volume = NetworkFileSystem.persisted('robodm-vol')
@@ -38,9 +40,13 @@ image = (
 )
 @asgi_app()
 def fastapi_app():
+    parser = ArgumentParser()
+    parser.add_argument('model_name', type=str, choices=MODELS_ITER, help="name of LLM to use; one of 'Llama7b' 'Llama13b' 'Novellama13b'")
+    args = parser.parse_args()
+
     from gradio.routes import mount_gradio_app
 
-    interface = app('Llama7b', True)
+    interface = app(args.model_name, True)
     return mount_gradio_app(
         app=web_app,
         blocks=interface,

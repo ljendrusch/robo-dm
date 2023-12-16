@@ -1,10 +1,10 @@
 ## Motivation
 
 This project is designed with two primary motivations in mind:
-- 1. Make an assistant to assist and inspire fans of tabletop role-playing games in fulfilling the role of the 'Dungeon Master'
-- 2. Make an open-source codebase to serve as a guide for programmers to explore modern techniques of interfacing with AI and Large Language Models
+- Make an assistant to assist and inspire fans of tabletop role-playing games in fulfilling the role of the 'Dungeon Master'
+- Make an open-source codebase to serve as a guide for programmers to explore modern techniques of interfacing with AI and Large Language Models
 
-#### On Motivation 1: Dungeon Master Inspiration / Assistance
+### On Motivation 1: Dungeon Master Inspiration / Assistance
 
 **Background**: Tabletop role-playing games (TTRPG's) have experienced numerous explosive rises in player population and general public interest
 over the past few decades. TTRPG's such as Dungeons and Dragons (D&D), Shadowrun, FATE, etc. are played by groups of friends around a table in a
@@ -24,7 +24,7 @@ as a foundation for, or inspiration for, a novel, storyboard, or custom TTRPG ad
 being a DM - tools like Robo-DM - exist, they will be more likely to volunteer to take up the role of DM, and the TTRPG playerbase should pivot to
 a more even ratio.
 
-#### On Motivation 2: Democratization of AI and Large Language Models (LLM's)
+### On Motivation 2: Democratization of AI and Large Language Models (LLM's)
 
 **Background**: Programmers hear 'AI' and 'LLM' and think 'that's too complex, I'll just pay big brother to query their models.' And this sentiment
 of reservedness towards AI has been the proper approach before the advent of recent tools and storage and sharing services targeting the computer
@@ -39,12 +39,13 @@ I hope this code is shared widely to serve as a foundation for or inspiration fo
 LLM's. Together, we can create the perfect Skynet.
 
 **Note**: Some of the most influential of the tools, abstractions, techniques, services, etc. that have bridged the gap to making AI programming
-approachable are shared in [Resources.md](Resources.md).
+approachable are shared in [misc/Resources.md](misc/Resources.md).
 
 
 ## Overview
 
 *Robo-DM...*
+
 - is a novel, storyboard, and TTRPG adventure writing assistant
 - forgot their d20
 - runs a version of the open-source LLM Llama2 either locally on one's computer, or remotely on a simple and low-cost cloud computing service
@@ -64,31 +65,40 @@ If you have a modern Nvidia GPU with 10 GB or more VRAM, you can run Robo-DM loc
 The following instructions are for a WSL2 development environment; details may vary for other environments.
 
 **Check GPU VRAM**
+
 - Nvidia Control Panel
-    ```Open Nvidia Control Panel
+    Open Nvidia Control Panel
     Click on 'Help' and 'System Information'
     Scroll down in 'Details' to find 'Dedicated video memory'
-    'Dedicated video memory' divided by 1000 is your GPU's VRAM in GB```
+    'Dedicated video memory' divided by 1000 is your GPU's VRAM in GB
 - Windows
-    ```Ctrl + R to open Run
+    Ctrl + R to open Run
     enter 'dxdiag'
     click 'Display' tab
-    'Display Memory (VRAM)' divided by 1000 is your GPU's VRAM in GB```
+    'Display Memory (VRAM)' divided by 1000 is your GPU's VRAM in GB
 
 **Dependencies**
+
 - Nvidia toolkit and CUDA
-    Follow along with the following video: [Install WSL2 on Windows 11 with NVIDIA CUDA 11.8](https://www.youtube.com/watch?v=1HzYU2_t3yc)
+    [Install WSL2 on Windows 11 with NVIDIA CUDA 11.8](https://www.youtube.com/watch?v=1HzYU2_t3yc)
 - Install Python dependencies
+
     ```pip install -r requirements.txt```
 
 **Run**
+
 ```python3 main.py```
+
     or
+
 ```python main.py```
+
 Open the IP address and port that appears in the terminal, example:
+
 ```Running on local URL:  http://127.0.0.1:7860```
 
 **Close**
+
 Ctrl + C in the terminal
 
 

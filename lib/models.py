@@ -1,5 +1,5 @@
 from huggingface_hub import login
-import torch
+from torch import bfloat16
 from typing import Any
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, GenerationConfig
 from lib.gen_funcs import GenQueries
@@ -18,7 +18,7 @@ class Llama7b:
                 load_in_4bit=True,
                 bnb_4bit_use_double_quant=True,
                 bnb_4bit_quant_type='nf4',
-                bnb_4bit_compute_dtype=torch.bfloat16,
+                bnb_4bit_compute_dtype=bfloat16,
             ))
         self.tkr = AutoTokenizer.from_pretrained(self.model_name)
         self.gen_cf = GenerationConfig(
@@ -54,7 +54,7 @@ class Llama13b:
                 load_in_4bit=True,
                 bnb_4bit_use_double_quant=True,
                 bnb_4bit_quant_type='nf4',
-                bnb_4bit_compute_dtype=torch.bfloat16,
+                bnb_4bit_compute_dtype=bfloat16,
             ))
         self.tkr = AutoTokenizer.from_pretrained(self.model_name)
         self.gen_cf = GenerationConfig(
@@ -90,7 +90,7 @@ class Novellama13b:
                 load_in_4bit=True,
                 bnb_4bit_use_double_quant=True,
                 bnb_4bit_quant_type='nf4',
-                bnb_4bit_compute_dtype=torch.bfloat16,
+                bnb_4bit_compute_dtype=bfloat16,
             ))
         self.tkr = AutoTokenizer.from_pretrained(self.model_name)
         self.gen_cf = GenerationConfig(

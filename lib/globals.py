@@ -12,4 +12,4 @@ MODELS = Literal['Llama7b', 'Llama13b', 'Novellama13b']
 MODELS_L = ['Llama7b', 'Llama13b', 'Novellama13b']
 MODAL_MODEL = 'Novellama13b'
 
-HF_SECRET = 'huggingface access token here'
+HF_SECRET = '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'
